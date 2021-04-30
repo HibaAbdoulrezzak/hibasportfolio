@@ -445,8 +445,7 @@ h2 {
 	background-color: #fedcdc;
 }
 
-.skillsIcons,
-li {
+.skillsIcons {
 	display: grid;
 	list-style-type: none;
 	padding: 10px;
@@ -611,8 +610,7 @@ footer {
 	}
 
 	.skillsIcons {
-		display: flex;
-		flex-direction: column;
+		display: grid;
 		align-items: center;
 	}
 
