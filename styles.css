@@ -259,6 +259,9 @@ a {
 img {
 	border-radius: 25px;
 }
+a {
+	color: black;
+}
 
 section {
 	padding: 5px;
